@@ -24,6 +24,17 @@ CV error rate is approximately 2.057142857142864 %
 Bayes/human error rate for mnist datset is approximately 0.2%
 
 
+--lambda at 0.0005--
+
+Training accuracy: 99.99821428571428 %
+CV accuracy: 98.02857142857142 %
+relative gap between CV and Train loss: 109.83178360080399 %
+
+Training error rate is approximately 0.0017857142857167219 %
+CV error rate is approximately 1.971428571428575 %
+Bayes/human error rate for mnist datset is approximately 0.2%
+
+
 --lambda at 0.0001--
 
 Training accuracy: 99.93392857142858 %
