@@ -1,0 +1,45 @@
+--lambda at 0--
+
+
+
+--lambda at 0.01-- (used alpha=0.005)
+
+Training accuracy: 96.56964285714285 %
+CV accuracy: 95.91428571428573 %
+relative gap between CV and Train loss: 3.5377915418173798 %
+
+Training error rate is approximately 3.4303571428571473 %
+CV error rate is approximately 4.085714285714275 %
+Bayes/human error rate for mnist datset is approximately 0.2%
+
+
+--lambda at 0.001--
+
+Training accuracy: 99.96964285714286 %
+CV accuracy: 97.94285714285714 %
+relative gap between CV and Train loss: 60.62190873420561 %
+
+Training error rate is approximately 0.03035714285714164 %
+CV error rate is approximately 2.057142857142864 %
+Bayes/human error rate for mnist datset is approximately 0.2%
+
+
+--lambda at 0.0001--
+
+Training accuracy: 99.93392857142858 %
+CV accuracy: 97.62857142857143 %
+relative gap between CV and Train loss: 77.04790391045209 %
+
+Training error rate is approximately 0.06607142857141923 %
+CV error rate is approximately 2.3714285714285666 %
+Bayes/human error rate for mnist datset is approximately 0.2%
+
+--lambda at 0.00005--
+
+Training accuracy: 99.74107142857143 %
+CV accuracy: 97.68571428571428 %
+relative gap between CV and Train loss: 111.78024053732753 %
+
+Training error rate is approximately 0.2589285714285694 %
+CV error rate is approximately 2.3142857142857167 %
+Bayes/human error rate for mnist datset is approximately 0.2%
